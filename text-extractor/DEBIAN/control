@@ -1,0 +1,8 @@
+Package: text-extractor
+Version: 1.0
+Section: utility
+Priority: optional
+Architecture: all
+Maintainer: MD Atikul Islam <atikul.bn@gmail.com>
+Depends: maim, tesseract-ocr, xclip, libnotify-bin
+Description: A simple text extractor using OCR from a selected screen area.
